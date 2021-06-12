@@ -24,7 +24,8 @@
     "core-js": "^2.4.1",
     "rxjs": "^5.4.1",
     "zone.js": "^0.8.14",
-    "normalize-url": ">=4.5.1"
+    "normalize-url": ">=4.5.1",
+    "http-proxy": ">=1.18.1"
   },
   "devDependencies": {
     "@angular/cli": "1.2.3",
